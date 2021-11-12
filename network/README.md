@@ -19,3 +19,7 @@
   - link state
   - distance vector
 - Eed System, router에서 실행
+
+# Data Link layer (Frame)
+
+# Physical layer (Bit)
